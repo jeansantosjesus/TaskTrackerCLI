@@ -12,3 +12,4 @@ C:\Users\jean.jesus\Documents\Programação\TaskTrackerCLI\obj\Debug\net8.0\refi
 C:\Users\jean.jesus\Documents\Programação\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.pdb
 C:\Users\jean.jesus\Documents\Programação\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.genruntimeconfig.cache
 C:\Users\jean.jesus\Documents\Programação\TaskTrackerCLI\obj\Debug\net8.0\ref\TaskTrackerCLI.dll
+C:\Users\jean.jesus\Documents\Programação\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.sourcelink.json
