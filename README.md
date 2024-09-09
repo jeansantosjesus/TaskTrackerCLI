@@ -21,7 +21,7 @@ O Task Tracker CLI é uma aplicação de linha de comando desenvolvida em C# par
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/SEU_USUARIO/TaskTrackerCLI.git
+   git clone https://github.com/jeansantosjesus/TaskTrackerCLI.git
    cd TaskTrackerCLI
 Restaurar pacotes:
 
@@ -102,7 +102,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/YOUR_USERNAME/TaskTrackerCLI.git
+git clone https://github.com/jeansantosjesus/TaskTrackerCLI.git
 cd TaskTrackerCLI
 Restore packages:
 
@@ -162,3 +162,5 @@ git commit -am 'Add new feature'
 Push to the branch:
 git push origin my-branch
 Open a pull request to have your changes reviewed and merged.
+
+Link project: https://roadmap.sh/projects/task-tracker
